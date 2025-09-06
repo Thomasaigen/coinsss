@@ -1,0 +1,19 @@
+{
+  "name": "Burn",
+  "symbol": "BURN",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coins/main/burn.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coins/main/burn.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://theburn.fun/",
+    "twitter": "https://x.com/TheBurnFun",
+    "telegram": ""
+  }
+}
