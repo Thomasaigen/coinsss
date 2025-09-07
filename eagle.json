@@ -1,0 +1,19 @@
+{
+  "name": "Just Eagle",
+  "symbol": "Eagle",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/eagle.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/eagle.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/USD1bond",
+    "telegram": ""
+  }
+}
