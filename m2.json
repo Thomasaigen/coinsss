@@ -1,0 +1,19 @@
+{
+  "name": "GLOBAL MONEY SUPPLY",
+  "symbol": "M2",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/m2.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/m2.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+}
