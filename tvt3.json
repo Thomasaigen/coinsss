@@ -1,0 +1,19 @@
+{
+  "name": "TvT",
+  "symbol": "TvT",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/tvt.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/tvt.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/TokenVsToken",
+    "telegram": ""
+  }
+}
