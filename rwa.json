@@ -1,0 +1,19 @@
+{
+  "name": "Evovle Milegreen",
+  "symbol": "MESONG",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/rwa.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/rwa.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.evolverwa.io/",
+    "twitter": "https://x.com/EVOLVEMilegreen",
+    "telegram": ""
+  }
+}
