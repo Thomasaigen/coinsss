@@ -1,0 +1,19 @@
+{
+  "name": "AmericaFun News",
+  "symbol": "NEWS",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/news.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/news.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.americafun.news/",
+    "twitter": "https://x.com/americadotnews",
+    "telegram": ""
+  }
+}
