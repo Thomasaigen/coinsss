@@ -1,0 +1,19 @@
+{
+  "name": "Gotchis",
+  "symbol": "GOTCHI",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/gotchi.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/coinsss/main/gotchi.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://gotchis.fun/",
+    "twitter": "https://x.com/Gotchissol",
+    "telegram": ""
+  }
+}
